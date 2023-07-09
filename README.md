@@ -24,13 +24,17 @@ Usage
 Write "Hello, World!" to Shimmer
 To write "Hello, World!" to the Shimmer ledger, run the following command:
 
-node helloWorldWrite.js
+   ```shell
+   node helloWorldWrite.js
+  ```
 
 This command will send the transaction to the Shimmer ledger.
 
 Read "Hello, World!" from Shimmer
-
-node helloWorldRead.js
+change the adress to the adress giving in the write execution
+   ```shell
+      node helloWorldRead.js
+  ```
 This command will retrieve and display the message from the Shimmer ledger.
 
 Contributing
