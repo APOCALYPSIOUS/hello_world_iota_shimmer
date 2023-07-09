@@ -1,0 +1,18 @@
+{
+  "name": "iota",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helloWorldRead.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@iota/client": "^3.0.0-rc.5",
+    "@iota/converter": "^1.0.0-beta.30",
+    "@iota/core": "^1.0.0-beta.30",
+    "dotenv": "^16.3.1",
+    "iota.lib.js": "^0.5.3"
+  }
+}
